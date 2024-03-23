@@ -4,7 +4,7 @@ void main() {
   Map<String, dynamic> person = {
     'name': 'Fousiya',
     'address': '123 Main Street',
-    'age': 30,
+    'age': 22,
     'country': 'India'
   };
 
