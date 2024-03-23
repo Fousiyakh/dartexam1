@@ -2,10 +2,10 @@
 void main() {
   // Create a map with name, address, age, country keys and store values
   Map<String, dynamic> person = {
-    'name': 'John Doe',
+    'name': 'Fousiya',
     'address': '123 Main Street',
     'age': 30,
-    'country': 'USA'
+    'country': 'India'
   };
 
 
@@ -16,3 +16,4 @@ void main() {
     print('$key: $value');
   });
 }
+
